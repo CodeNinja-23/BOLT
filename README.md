@@ -1,2 +1,2 @@
 # BOLT
-Better Online Learning with Tech
+Bridged Online Learning Toolkit
